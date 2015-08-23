@@ -1,0 +1,8 @@
+在命令行中转到工程目录
+2、mvn clean
+3、mvn compile
+4、mvn tomcat:run ;启动tomcat
+5、在浏览器输入网址:http://localhost:8080/CSSJavaScriptExam8829/login.jsp
+数据库登录名：root
+密码:""
+登录密码为空
